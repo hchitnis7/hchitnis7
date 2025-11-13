@@ -1,7 +1,7 @@
 /# 👋 Hey there, I’m Harsh Chitnis
 
 I’m a first-year **Master’s student in Computer Science (Data Science & AI)** in Sweden.  
-My interests lie at the intersection of **AI, image-based data, and autonomous systems** — combining analytics, perception, and problem-solving to create meaningful solutions.
+My interests lie at the intersection of **AI, image-based data, and autonomous systems** - combining analytics, perception, and problem-solving to create meaningful solutions.
 
 ---
 
@@ -19,9 +19,9 @@ While I’m not actively building avionics hardware now, that experience shapes 
 ---
 
 ## 💡 Projects You Might Like
-- 🖐️ [Gesture-Controlled Robot Hand](https://github.com/hchitnis7/Gesture-Controlled-Robot-Hand) — Control a robotic hand using computer vision and Arduino  
-- 🔐 [Next-Gen Encryption & Steganography](https://github.com/hchitnis7/Next-Gen-Encryption-Steganography) — Experimental approach to secure data hiding and transmission  
-- 🧭 Data Visualization Work — Hodograms, time series, and event-based analysis of magnetic field & solar wind parameters  
+- 🖐️ [Gesture-Controlled Robot Hand](https://github.com/hchitnis7/Gesture-Controlled-Robot-Hand) - Control a robotic hand using computer vision and Arduino  
+- 🔐 [Next-Gen Encryption & Steganography](https://github.com/hchitnis7/Next-Gen-Encryption-Steganography) - Experimental approach to secure data hiding and transmission  
+- 🧭 Data Visualization Work - Hodograms, time series, and event-based analysis of magnetic field & solar wind parameters  
 
 ---
 ## ⚙️ Languages, Frameworks & Tools
