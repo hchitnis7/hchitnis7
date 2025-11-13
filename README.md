@@ -10,18 +10,20 @@ My interests lie at the intersection of **AI, image-based data, and autonomous s
 - Building intelligent systems that learn from real-world sensory inputs  
 - Expanding my understanding of AI-driven automation and control  
 
----
-
 ## 🧠 Past Work
-Previously, I’ve worked on **avionics and autonomous control systems**, integrating hardware and software for data acquisition and system optimization.  
-While I’m not actively building avionics hardware now, that experience shapes how I think about data, precision, and real-world performance.
+I’ve previously worked on **avionics and autonomous control systems**, focusing on sensor integration, data acquisition, and control optimization.  
+While I no longer design avionics hardware, that experience continues to influence how I think about real-world systems and data-driven engineering.
 
----
+During my **Bachelor’s degree**, I led a major project on **Next-Gen Encryption and Steganography**, developing a system for secure data hiding and retrieval using a combination of advanced, post quantum cryptographic and steganographic techniques, blending security and information theory in practice.
+
+In parallel, I worked on a **solar physics research project** analyzing the **thermodynamics of small-scale magnetic flux ropes**, and developed an **algorithm to automatically identify flux rope events** using only magnetic field data.  
+This project deepened my interest in working with  algorithm design and scientific data analysis.
+
 
 ## 💡 Projects You Might Like
 - 🖐️ [Gesture-Controlled Robot Hand](https://github.com/hchitnis7/Gesture-Controlled-Robot-Hand) - Control a robotic hand using computer vision and Arduino  
 - 🔐 [Next-Gen Encryption & Steganography](https://github.com/hchitnis7/Next-Gen-Encryption-Steganography) - Experimental approach to secure data hiding and transmission  
-- 🧭 Data Visualization Work - Hodograms, time series, and event-based analysis of magnetic field & solar wind parameters  
+- 🧭 Data Visualization Work - Hodograms, time series, and event-based analysis of magnetic field & solar wind parameters as art of my research internship in the department of physics, SPACE Lab, University of Mumbai 
 
 ---
 ## ⚙️ Languages, Frameworks & Tools
