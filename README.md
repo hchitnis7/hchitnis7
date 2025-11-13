@@ -1,4 +1,4 @@
-/# 👋 Hey there, I’m Harsh Chitnis
+# 👋 Hey there, I’m Harsh Chitnis
 
 I’m a first-year **Master’s student in Computer Science (Data Science & AI)** in Sweden.  
 My interests lie at the intersection of **AI, image-based data, and autonomous systems** - combining analytics, perception, and problem-solving to create meaningful solutions.
